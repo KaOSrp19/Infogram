@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6632C5"
+    android:orientation="vertical"
+    tools:context=".LinearLayout">
+
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:src="@drawable/logo"
+        />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:text="Nombre de Ususario:"
+        android:layout_margin="20dp"
+        />
+    <EditText
+        android:id="@+id/email"
+        android:layout_below="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:layout_margin="10dp"
+        />
+
+    <TextView
+        android:id="@+id/contraseña"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/email"
+        android:text="Contraseña:"
+        android:layout_margin="20dp"
+        />
+    <EditText
+        android:id="@+id/password"
+        android:layout_below="@+id/contraseña"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Contraseña"
+        android:inputType="textPassword"
+        android:layout_margin="10dp"
+        />
+    <Button
+        android:id="@+id/boton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Ingresar"
+        android:textColor="#ffffff"
+        android:layout_margin="10dp"
+        android:backgroundTint="#7F45B6"
+        />
+
+
+</LinearLayout>
