@@ -1,1 +1,1 @@
-# Infogram
+Este proyecto esta llevado en base al material que se nos a proporcionado en la clase  y la plataforma  tomando en cuenta las peticiones o requerimientos que se nos pidio y que emos llamdo al proyecto con el nombre de KurtzPel
