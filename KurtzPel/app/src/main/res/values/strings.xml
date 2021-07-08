@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KurtzPel</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar" translatable="false">Ingresar</string>
+    <string name="no_tieenes_cuenta_crea_una_aqui" translatable="false">¿No tieenes cuenta?, Crea una aqui</string>
+
+
+    <string name="crea_una_cuenta" translatable="false">Crea una cuenta</string>
+    <string name="nombre" translatable="false">Nombre</string>
+    <string name="ususario" translatable="false">Ususario</string>
+    <string name="confirmar_contrase_a" translatable="false">Confirmar Contraseña</string>
+    <string name="registrar" translatable="false">Registrar</string>
+
+</resources>

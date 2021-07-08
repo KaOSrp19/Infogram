@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KurtzPel</string>
+    <string name="nombre_de_usuario">Llankaqpa sutin</string>
+    <string name="contrasena">llawi</string>
+    <string name="ingresar" translatable="false">Yaykuy</string>
+    <string name="no_tieenes_cuenta_crea_una_aqui" translatable="false">¿Mana kay huk tukuy kaqkuna?, Kamay huk kay</string>
+
+
+    <string name="crea_una_cuenta" translatable="false">Kamay huk tukuy kaqkuna</string>
+    <string name="nombre" translatable="false">Suti</string>
+    <string name="ususario" translatable="false">Ruraq</string>
+    <string name="confirmar_contrase_a" translatable="false">Ari llawi</string>
+    <string name="registrar" translatable="false">Hap'iy</string>
+</resources>

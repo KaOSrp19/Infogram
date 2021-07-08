@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KurtzPel</string>
+    <string name="nombre_de_usuario">Username</string>
+    <string name="contrasena">Password</string>
+    <string name="ingresar" translatable="false">Enterokay</string>
+    <string name="no_tieenes_cuenta_crea_una_aqui" translatable="false">Do not have an account?, Create one here</string>
+
+    <string name="crea_una_cuenta" translatable="false">Create an account</string>
+    <string name="nombre" translatable="false">Name</string>
+    <string name="ususario" translatable="false">User</string>
+    <string name="confirmar_contrase_a" translatable="false">Confirm Password</string>
+    <string name="registrar" translatable="false">Register</string>
+</resources>
